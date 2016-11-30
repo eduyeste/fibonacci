@@ -3,6 +3,7 @@ Created on 25 nov. 2016
 
 @author: usuario
 '''
+
 def Fibonacci(numero):
     if numero==1:
         return 1
